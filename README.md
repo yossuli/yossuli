@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![](http://my-git-hub-profile-summary-cards.vercel.app/api/cards/profile-details?username=yossuli&theme=github_dark)
+
+![](https://zenn.dev/yossuli)
+
 ### Activities and Trophys
 [![trophy](https://github-profile-trophy.vercel.app/?username=yossuli&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
